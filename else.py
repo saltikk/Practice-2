@@ -20,6 +20,8 @@ if number % 2 == 0:
 else:
   print("The number is odd")
 
+
+
 temperature = 22
 if temperature > 30:
   print("It's hot outside!")
